@@ -1,4 +1,4 @@
-ROM centos:latest
+FROM centos:latest
 
 ENV SSH_PASS="bitrix"
 ENV TIMEZONE="Europe/Moscow"
